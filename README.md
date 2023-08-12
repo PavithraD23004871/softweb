@@ -26,11 +26,9 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM:
-home.html
+### home.html
 
 ```
-
-
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -96,7 +94,7 @@ home.html
     </body>
 </html>
 ```
-products.html
+### products.html
 
 ```
 <!DOCTYPE html>
@@ -305,7 +303,7 @@ products.html
     </body>
 </html>
 ```
-people.html
+### people.html
 
 ```
 <!DOCTYPE html>
@@ -514,7 +512,7 @@ people.html
     </body>
 </html>
 ```
-contact.html
+### contact.html
 
 ```
 <!DOCTYPE html>
@@ -584,8 +582,7 @@ contact.html
 </html>
 ```
 
-style.css
-
+### style.css
 ```
 .home{
      height: 700px; width: 85%;
@@ -712,10 +709,8 @@ style.css
         padding:10px;
         margin-left:auto;
         margin-right:auto;
-
     }
-    ```
-
+```
 
 ## OUTPUT:
 ![output](out1.png)
